@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidBottomSheetDialogApp</string>
+    <string name="buttonText">Show Bottom Dialog</string>
 </resources>
